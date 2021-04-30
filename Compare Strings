@@ -11,3 +11,6 @@ public class CompareStrings {
             System.out.println("Not Equal");
     }
 }
+
+
+// this is all about code
