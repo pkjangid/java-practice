@@ -1,3 +1,2 @@
 # java-practice
-in this folder i m upload my all java
-practice code.
+in this folder i m upload my all java practice code.
