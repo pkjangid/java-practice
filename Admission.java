@@ -19,5 +19,6 @@ public class Admission{
          {
            System.out.println("sorry !! you are not eligible to take admission in Sgvu jaipur");
          }
-         }
+       
+    }
          }
