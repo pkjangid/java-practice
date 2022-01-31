@@ -22,7 +22,8 @@ class Main {
     numbers.addAll(prime);
     numbers.addAll(even);
 
-    System.out.println("Merged List: " + numbers);
+  
+  System.out.println("Merged List: " + numbers);
 
   }
 }
