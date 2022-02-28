@@ -37,8 +37,4 @@ enum Size{
      // using the object LARGE
      System.out.println("The size of Pizza I want is " + Size.LARGE.getSize());
   }
-
-
-
-
 }
